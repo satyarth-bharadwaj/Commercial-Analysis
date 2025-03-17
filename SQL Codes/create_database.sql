@@ -1,1 +1,0 @@
-Create Database if not exists sap_data_warehouse;
